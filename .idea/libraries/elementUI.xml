@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="elementUI" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/vue_demo1/node_modules/_element-ui@2.13.0@element-ui" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/vue_demo1/node_modules/_element-ui@2.13.0@element-ui" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
